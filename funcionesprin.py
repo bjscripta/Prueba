@@ -1,7 +1,7 @@
 import os,time,msvcrt,csv
 pedidos = []
 def opcion1():
-    print("Registrar pedido")
+    print("Registrar pedid")
     rut = validarrut()
     nombre = validarnombre()
     direccion = validardireccion()
